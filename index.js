@@ -1,6 +1,6 @@
 var dodger = document.getElementById('dodger')
 
-dodger.style.left = '350px';
+dodger.style.left = '355px';
 
 function moveDodgerLeft() {
   var leftNumbers = dodger.style.left.replace('px', '')
